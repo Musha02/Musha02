@@ -17,7 +17,7 @@
 </div>
 
 - I'm currently an IT Undergraduate of University of Moratuwa
-- I'm currently a Software Engineer Intern at @WDAT
+- I'm former Software Engineer Intern at @WDAT
 - I’m interested in Software Development
 - A Full-Stack Developer
 - 📫 How to reach me : 
